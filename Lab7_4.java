@@ -1,7 +1,3 @@
-// Daniel Fontana
-// CSC 161-02
-// Lab7_4
-
 import javax.swing.*;
 import java.lang.*;
 
