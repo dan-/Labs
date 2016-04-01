@@ -1,7 +1,3 @@
-// Daniel Fontana
-// CSC 161-02
-// Lab7_1
-
 import java.io.*;
 import java.util.Scanner;
 
